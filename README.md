@@ -68,7 +68,7 @@ I'm building **Nexa**, an AI-focused startup creating products designed to solve
 
 ### AI-powered fashion creation & style transformation
 
-[![Style Muse AI](https://img.shields.io/badge/Style%20Muse%20AI-Try%20It-000000?style=for-the-badge)](https://style-muse-ai-84.vercel.app)
+[![Style Muse AI](https://img.shields.io/badge/Style%20Muse%20AI-Try%20It-000000?style=for-the-badge)](https://fashion.name.ng)
 
 Style Muse AI uses artificial intelligence to help people visualize fashion ideas before they become reality.
 
